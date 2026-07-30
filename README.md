@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shobhit-vats02/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shobhit-vats02/LeetCode-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/shobhit-vats02/LeetCode-/tree/master/0131-palindrome-partitioning) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shobhit-vats02/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shobhit-vats02/LeetCode-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
 |  |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/shobhit-vats02/LeetCode-/tree/master/0131-palindrome-partitioning) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shobhit-vats02/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
