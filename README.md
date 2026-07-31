@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/shobhit-vats02/LeetCode-/tree/master/0133-clone-graph) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shobhit-vats02/LeetCode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shobhit-vats02/LeetCode-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Math
@@ -48,10 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/shobhit-vats02/LeetCode-/tree/master/0130-surrounded-regions) |
+| [0133-clone-graph](https://github.com/shobhit-vats02/LeetCode-/tree/master/0133-clone-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/shobhit-vats02/LeetCode-/tree/master/0130-surrounded-regions) |
+| [0133-clone-graph](https://github.com/shobhit-vats02/LeetCode-/tree/master/0133-clone-graph) |
 ## Union-Find
 |  |
 | ------- |
@@ -64,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shobhit-vats02/LeetCode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/shobhit-vats02/LeetCode-/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
