@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/shobhit-vats02/LeetCode-/tree/master/0486-predict-the-winner) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shobhit-vats02/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shobhit-vats02/LeetCode-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/shobhit-vats02/LeetCode-/tree/master/0131-palindrome-partitioning) |
+| [0486-predict-the-winner](https://github.com/shobhit-vats02/LeetCode-/tree/master/0486-predict-the-winner) |
 ## Backtracking
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/shobhit-vats02/LeetCode-/tree/master/0130-surrounded-regions) |
+| [0486-predict-the-winner](https://github.com/shobhit-vats02/LeetCode-/tree/master/0486-predict-the-winner) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -71,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/shobhit-vats02/LeetCode-/tree/master/0133-clone-graph) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/shobhit-vats02/LeetCode-/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/shobhit-vats02/LeetCode-/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
