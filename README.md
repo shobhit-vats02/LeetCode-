@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/shobhit-vats02/LeetCode-/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/shobhit-vats02/LeetCode-/tree/master/0133-clone-graph) |
+| [0144-binary-tree-preorder-traversal](https://github.com/shobhit-vats02/LeetCode-/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -82,4 +83,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/shobhit-vats02/LeetCode-/tree/master/0486-predict-the-winner) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/shobhit-vats02/LeetCode-/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/shobhit-vats02/LeetCode-/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/shobhit-vats02/LeetCode-/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
