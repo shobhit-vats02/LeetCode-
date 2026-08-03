@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/shobhit-vats02/LeetCode-/tree/master/0486-predict-the-winner) |
 | [0704-binary-search](https://github.com/shobhit-vats02/LeetCode-/tree/master/0704-binary-search) |
 | [1406-stone-game-iii](https://github.com/shobhit-vats02/LeetCode-/tree/master/1406-stone-game-iii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shobhit-vats02/LeetCode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/shobhit-vats02/LeetCode-/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/shobhit-vats02/LeetCode-/tree/master/0133-clone-graph) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shobhit-vats02/LeetCode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/shobhit-vats02/LeetCode-/tree/master/0130-surrounded-regions) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shobhit-vats02/LeetCode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/shobhit-vats02/LeetCode-/tree/master/0133-clone-graph) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shobhit-vats02/LeetCode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -104,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/shobhit-vats02/LeetCode-/tree/master/0704-binary-search) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shobhit-vats02/LeetCode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shobhit-vats02/LeetCode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
