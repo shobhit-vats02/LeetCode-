@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/shobhit-vats02/LeetCode-/tree/master/0130-surrounded-regions) |
 | [0486-predict-the-winner](https://github.com/shobhit-vats02/LeetCode-/tree/master/0486-predict-the-winner) |
+| [0704-binary-search](https://github.com/shobhit-vats02/LeetCode-/tree/master/0704-binary-search) |
 | [1406-stone-game-iii](https://github.com/shobhit-vats02/LeetCode-/tree/master/1406-stone-game-iii) |
 ## Depth-First Search
 |  |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/shobhit-vats02/LeetCode-/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/shobhit-vats02/LeetCode-/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
