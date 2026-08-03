@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/shobhit-vats02/LeetCode-/tree/master/0131-palindrome-partitioning) |
 | [0486-predict-the-winner](https://github.com/shobhit-vats02/LeetCode-/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/shobhit-vats02/LeetCode-/tree/master/1406-stone-game-iii) |
+| [3620-network-recovery-pathways](https://github.com/shobhit-vats02/LeetCode-/tree/master/3620-network-recovery-pathways) |
 ## Backtracking
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/shobhit-vats02/LeetCode-/tree/master/0704-binary-search) |
 | [1406-stone-game-iii](https://github.com/shobhit-vats02/LeetCode-/tree/master/1406-stone-game-iii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shobhit-vats02/LeetCode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/shobhit-vats02/LeetCode-/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/shobhit-vats02/LeetCode-/tree/master/0133-clone-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shobhit-vats02/LeetCode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/shobhit-vats02/LeetCode-/tree/master/3620-network-recovery-pathways) |
 ## Recursion
 |  |
 | ------- |
@@ -108,12 +111,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/shobhit-vats02/LeetCode-/tree/master/0704-binary-search) |
+| [3620-network-recovery-pathways](https://github.com/shobhit-vats02/LeetCode-/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shobhit-vats02/LeetCode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/shobhit-vats02/LeetCode-/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shobhit-vats02/LeetCode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/shobhit-vats02/LeetCode-/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/shobhit-vats02/LeetCode-/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
